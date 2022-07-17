@@ -1,0 +1,2 @@
+# Financial-data-Analysis
+we will understand how banks and other financial institutions use predictive analytics for modelling their risk. Risk analytics has attracted a lot of attention in the wake of the recent financial crisis. With the help of risk analytics, we can answer questions such as "Can the banks predict when their loans would default?", "Can the banks estimate the aggregate default rate?", "What aggregate tools can be used in this pursuit?”, etc.
